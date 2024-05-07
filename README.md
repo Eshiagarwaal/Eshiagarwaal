@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eshiagarwaal
+- 👋 Hi, I’m @Eshiagarwal
 - 👀 I’m interested in ...code and data analytics
 - 🌱 I’m currently learning ...python
 - 📫 How to reach me ...linkedin
